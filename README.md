@@ -1,2 +1,2 @@
 # Hello-world
-This a repositry-mysh ))
+This a repository-mysh ))
