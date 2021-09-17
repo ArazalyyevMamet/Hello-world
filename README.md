@@ -1,3 +1,3 @@
 # Hello-world
-This a repository-mysh ))
-Birzatlara  owretjek bolya shu bratok
+This a repository
+Thhis is my git account
